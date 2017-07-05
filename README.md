@@ -1,5 +1,7 @@
 #nuka-carousel
 
+**FYI - We are no longer maintaining this fork. We have switched to using react-slick for our purposes.
+
 A Pure ReactJS Carousel Component
 
 ![http://i.imgur.com/UwP5gle.gif](http://i.imgur.com/UwP5gle.gif)
